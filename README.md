@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Infinity Seeker</h1>
 <p align="center"> Seeking the infinite without going to the extreme </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indacker&label=Profile%20views&color=brightgreen&style=flat" alt="indacker" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=InfinitySeeker&label=Profile%20views&color=brightgreen&style=flat" alt="InfinitySeeker" /> </p>
 <p align="left">
-  <a href="https://github.com/indacker?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/InfinitySeeker?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 
 - ❤️😼 Back-End developer
 
 
-- 📫 **How to reach me** <a href="https://t.me/indacker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="indacker" height="30" width="40" /></a>
+- 📫 **How to reach me** <a href="https://t.me/InfinitySeeker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="InfinitySeeker" height="30" width="40" /></a>
 
 
 
@@ -75,15 +75,15 @@
 
 
 <div align="center">
-<a href="https://github.com/indacker/github-readme-stats"><img alt="indacker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indacker&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/InfinitySeeker/github-readme-stats"><img alt="InfinitySeeker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinitySeeker&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </br>
 </div>
 
 
 
 <p align="center">
-  <a href="https://github.com/indacker">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indacker&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/InfinitySeeker">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfinitySeeker&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 <picture>
